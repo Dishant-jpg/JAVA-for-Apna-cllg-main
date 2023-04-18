@@ -5,4 +5,3 @@ public class area_of_square {
 
         }
     }
-}
