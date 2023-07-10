@@ -1,6 +1,4 @@
 import java.util.*;
-
-import javafx.scene.shape.Rectangle;
 public class area_of_square {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
