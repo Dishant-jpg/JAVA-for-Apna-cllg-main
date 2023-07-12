@@ -10,3 +10,13 @@ public class Breaks {
         System.out.println(" I am Exit from Loop");
     }
 }
+
+//Unusal code 
+// public class Breaks {
+//     public static void main(String args[]){
+//         String s = "Hardik";
+//          s = "Dishant";
+//          System.out.print(s + s);
+//     }
+    
+// }
